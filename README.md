@@ -10,3 +10,6 @@ I have done some tasks on Iris Datasets and on students performance -
 
 
 Dataset for Task#1 : " http://bit.ly/w-data "
+Dataset for Task#2 : " https://bit.ly/3kXTdox "
+Dataset for Task#3 : " https://bit.ly/3kXTdox "
+Dataset for Task#5 : " https://bit.ly/3i4rbWl "
