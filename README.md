@@ -5,3 +5,4 @@ I have done some tasks on Iris Datasets and on students performance -
 1. Task#1 : Prediction using Supervised Machine Learning Algorithms 
 2. Task#2 : Prediction using Unsupervised Machine Learning Algorithms (predict the optimum number of clusters)
 3. Task#3 : Prediction using Decision Tree Algorithm (create the Decision Tree Classifier and visualize it graphically)
+4. Task#5 : To explore Business Analytics:Perform ‘Exploratory Data Analysis’ on the provided dataset 'SampleSuperstore'
