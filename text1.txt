@@ -1,5 +1,5 @@
 This is a blank Text File:
 1. Testing git merge
 2. Test 1 ignored
-
+Fine with tis test
 This is Testing Phase of the text file text1.txt.
