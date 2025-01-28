@@ -1,0 +1,2 @@
+This is a blank Text File:
+1. Testing git merge
