@@ -16,3 +16,8 @@ This is Phase of the text file text67.txt.
 2. Test  ignoredd
 This is Phase of the text file text67.txt.
 This is Phase of the text file text67.txt.
+=======================================================================================================
+1. Testing mergeq
+2. Test  ignoredd
+This is Phase of the text file text67.txt.
+This is Phase of the text file text67.txt.
