@@ -8,17 +8,5 @@ This is a blank File:
 1. Testing merge
 2. Test  ignored
 
-This is a blank Texqt File:
-1. Testing git merqge
-2. Test 1 ignoredq
-Fine with tis testq
-This is Testing Phqase of the text file text1.txt.
-This is a blank Fqile:
-1. Testing mergeq
-2. Test  ignoredd
-This is Phase of the text file text67.txt.
-This is Phase of the text file text67.txt.
-
-
 This is Phase of the text file text2.txt.
 This is Phase of the text file text2.txt.
