@@ -1,1 +1,8 @@
 Just random content file to test git pull
+Fine with tis testq
+This is Testing Phqase of the text file text1.txt.
+This is a blank Fqile:
+1. Testing mergeq
+2. Test  ignoredd
+This is Phase of the text file text67.txt.
+This is Phase of the text file text67.txt.
