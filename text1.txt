@@ -4,6 +4,18 @@ This is a blank Text File:
 2. Test 1 ignored
 Fine with tis test
 This is Testing Phase of the text file text1.txt.
+
+This is a blankwert Text File:
+1. Testing git mergwertye
+2. Test 1 ignoredwerty
+Fine with tis testwert
+This is Testing Phase werof the text file text1.txt.
+This is a blank File:wert
+1. Testing mergewert
+2. Test  ignoredwert
+wert
+Thiswertyusasdfg is Phase of the text file text1.txt.
+
 This is a blank File:
 1. Testing merge
 2. Test  ignored
